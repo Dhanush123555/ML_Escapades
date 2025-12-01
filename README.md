@@ -4,7 +4,7 @@ The nomenclature is as follows:
 Project Descriptions:
 Mnist_FC:
   Fully connected network with one hidden layer trained on the mnist dataset.
-  Uses Functional API, which is overkill, but I wanted to try it out
+  Uses Functional API, which is overkill, but I wanted to try it out.
 
 Fashion_Mnist_CNN:
   CNN trained on the fashion mnist dataset.
