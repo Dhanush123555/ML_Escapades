@@ -11,4 +11,10 @@ Fashion_Mnist_CNN:
   Given is the architecture that performed well.
   Uses Sequential API.
 
+Titanic_EDA:
+  Ran EDA on the popular titanic dataset.
+  Used all vanilla classifiers in scikit learn and tuned their hyperparameters to achieve an accuracy of 77%.
+  Used pyTorch to create a Neural Net classifier and trained it.
+  
+
   
