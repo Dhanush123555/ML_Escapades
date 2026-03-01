@@ -16,5 +16,9 @@ Titanic_EDA:
   Used all vanilla classifiers in scikit learn and tuned their hyperparameters to achieve an accuracy of 77%.
   Used pyTorch to create a Neural Net classifier and trained it.
   
-
+TFNS_RNN:
+  Ran Sentiment analysis on Twitter Financial News Sentiment dataset of ~10k training samples.
+  Learned text tokenization and reverse lookup.
+  Experimented with various architectures and embedding sizes.
+  Used Vanilla RNN, LSTM and GRU to achieve a maximum test classification accuracy of 73.56%, 76.7%, and 76.98% respectively.
   
