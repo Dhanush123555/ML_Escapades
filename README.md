@@ -20,5 +20,9 @@ TFNS_RNN:
   Ran Sentiment analysis on Twitter Financial News Sentiment dataset of ~10k training samples.
   Learned text tokenization and reverse lookup.
   Experimented with various architectures and embedding sizes.
-  Used Vanilla RNN, LSTM and GRU to achieve a maximum test classification accuracy of 73.56%, 76.7%, and 76.98% respectively.
+  Used Vanilla RNN, LSTM and GRU to achieve a maximum test classification accuracy of 47%(Imbalanced dataset).
   
+CIFAR10_CNN:
+  Ran a VGG style CNN on the CIFAR 10 dataset of 40k training and 10k test and validation samples
+  Learned creation and training of CNNs
+  Best achieved accuracy on the test set is 72% for the balanced dataset 
